@@ -1,7 +1,3 @@
 #!/bin/sh
 
-
-fold="dotfiles"
-
-cp dotfiles/.export .export
-chmod +x .exports
+chmod +x WaHaHa.sh

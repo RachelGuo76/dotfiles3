@@ -1,4 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
-cd /workspaces/.codespaces/.persistedshare/dotfiles
 mkdir folder123
